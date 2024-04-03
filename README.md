@@ -1,0 +1,2 @@
+# bowo-resolusi
+membuat resolusi
